@@ -116,6 +116,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/8IFHiuMI/versions/IrUljfYn/simplemodsync-neoforge-1.21.1-1.4.1.jar",
+      "name": "Simple Mod Sync (SMS)",
+      "version": "1.4.1",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/AANobbMI/versions/jfHZ5pyN/sodium-neoforge-0.8.13-beta.2%2Bmc1.21.1.jar",
       "name": "Sodium",
       "version": "mc1.21.1-0.8.13-beta.2-neoforge",
